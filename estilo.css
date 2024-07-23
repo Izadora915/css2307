@@ -1,0 +1,16 @@
+h1{
+    color:deeppink;
+    /*comentario*/
+}
+
+h2{
+    margin:0px;
+}
+
+.time{
+    width: 400px; /*valor 400 fixo*/
+    border: solid deeppink 1px;
+    padding : 20px;
+    margin: 20px;
+
+}
